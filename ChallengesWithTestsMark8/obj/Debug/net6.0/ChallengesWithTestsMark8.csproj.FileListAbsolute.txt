@@ -1,0 +1,15 @@
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.deps.json
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.dll
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/brandonholliday/Desktop/Work_TrueCoders/CSharp_Projects/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.dll
